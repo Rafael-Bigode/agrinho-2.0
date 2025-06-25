@@ -1,67 +1,83 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Importância da Agricultura para as Cidades</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        main {
-            padding: 20px;
-        }
-        h1 {
-            margin-top: 0;
-        }
-        section {
-            margin-bottom: 20px;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>União Campo-Cidade: Caminhos para um Futuro Sustentável</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 20px;
+    }
+    h1 {
+      color: #2c7a2c;
+    }
+    article {
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #444;
+    }
+    p {
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      margin-top: 40px;
+      color: #777;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Importância da Agricultura para as Cidades</h1>
-    </header>
-    <main>
-        <section>
-            <h2>Por que a agricultura é importante?</h2>
-            <p>A agricultura fornece alimentos frescos e de qualidade para as cidades, além de contribuir para a economia local e a preservação do meio ambiente.</p>
-        </section>
-        <section>
-            <h2>Benefícios para as cidades</h2>
-            <ul>
-                <li>Redução do impacto ambiental</li>
-                <li>Promoção da sustentabilidade</li>
-                <li>Geração de empregos</li>
-                <li>Melhoria na qualidade de vida</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Como podemos ajudar?</h2>
-            <p>Incentivar a agricultura urbana, apoiar feiras locais e promover práticas sustentáveis são algumas formas de valorizar a agricultura nas cidades.</p>
-        </section>
-    </main>
-    <footer>
-        <p>© 2023 Seu Nome</p>
-    </footer>
+  <header>
+    <h1>União Campo-Cidade: Caminhos para um Futuro Sustentável</h1>
+    <p><em>Por Redação Jornal do Futuro</em></p>
+  </header>
+
+  <article>
+    <p>
+      A conexão entre o campo e a cidade nunca foi tão importante quanto agora. Em tempos de transformações climáticas, insegurança alimentar e urbanização acelerada, fortalecer os laços entre as zonas rurais e urbanas é essencial para garantir um desenvolvimento verdadeiramente sustentável.
+    </p>
+
+    <h2>Alimentos mais perto de quem consome</h2>
+    <p>
+      A aproximação entre produtores rurais e consumidores urbanos permite cadeias alimentares mais curtas, reduzindo o desperdício e os impactos ambientais do transporte de longa distância. Feiras agroecológicas, mercados de produtores locais e sistemas de entrega direta são exemplos dessa nova relação em construção.
+    </p>
+
+    <h2>Valorização da cultura e saberes do campo</h2>
+    <p>
+      A urbanização intensa muitas vezes distancia as pessoas de suas raízes. Ao promover trocas culturais e educacionais entre campo e cidade, é possível valorizar os saberes tradicionais, a agricultura familiar e as práticas sustentáveis, além de estimular o respeito à terra e à biodiversidade.
+    </p>
+
+    <h2>Políticas públicas e cooperação</h2>
+    <p>
+      Iniciativas como o Programa Nacional de Alimentação Escolar (PNAE), que incentiva a compra de produtos da agricultura familiar para merendas escolares, demonstram como a articulação entre políticas públicas pode fortalecer a produção rural e beneficiar a população urbana, principalmente em regiões periféricas.
+    </p>
+
+    <h2>Desafios e oportunidades</h2>
+    <p>
+      Apesar dos avanços, ainda existem barreiras a superar, como a concentração fundiária, a falta de acesso a crédito e a invisibilidade dos pequenos produtores. No entanto, a crescente conscientização urbana sobre alimentação saudável e impactos ambientais abre espaço para novas formas de cooperação e solidariedade entre campo e cidade.
+    </p>
+
+    <p>
+      A união entre campo e cidade não é apenas uma estratégia econômica — é uma necessidade ética, social e ambiental. Ao reforçar essa aliança, construímos uma sociedade mais justa, resiliente e preparada para os desafios do futuro.
+    </p>
+  </article>
+
+  <footer>
+    &copy; 2025 Jornal do Futuro - Todos os direitos reservados
+  </footer>
 </body>
 </html>
