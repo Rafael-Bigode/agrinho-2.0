@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Importância da Agricultura para as Cidades</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Importância da Agricultura para as Cidades</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Por que a agricultura é importante?</h2>
+            <p>A agricultura fornece alimentos frescos e de qualidade para as cidades, além de contribuir para a economia local e a preservação do meio ambiente.</p>
+        </section>
+        <section>
+            <h2>Benefícios para as cidades</h2>
+            <ul>
+                <li>Redução do impacto ambiental</li>
+                <li>Promoção da sustentabilidade</li>
+                <li>Geração de empregos</li>
+                <li>Melhoria na qualidade de vida</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Como podemos ajudar?</h2>
+            <p>Incentivar a agricultura urbana, apoiar feiras locais e promover práticas sustentáveis são algumas formas de valorizar a agricultura nas cidades.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2023 Seu Nome</p>
+    </footer>
+</body>
+</html>
